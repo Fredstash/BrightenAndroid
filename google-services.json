@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "248149903037",
+    "firebase_url": "https://brightenserver-default-rtdb.firebaseio.com",
+    "project_id": "brightenserver",
+    "storage_bucket": "brightenserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248149903037:android:7cedeb89cc3691e06659d4",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248149903037-5gn0brlijmr7f3540ihn45jr6fhr1rif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNcddEhu_q7C1nXayPiuSHisKhU1YMzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248149903037-5gn0brlijmr7f3540ihn45jr6fhr1rif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
